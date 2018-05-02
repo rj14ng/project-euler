@@ -1,0 +1,1 @@
+Problem 21 and 95 are related, so the solutions are put in the same folder.

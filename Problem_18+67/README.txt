@@ -1,0 +1,1 @@
+Problem 18 and 67 are related, so the solutions are put in the same folder.
